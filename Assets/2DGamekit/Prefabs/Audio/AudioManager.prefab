@@ -299,11 +299,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: -551920564
-      Data2: 1267131219
-      Data3: -523379836
-      Data4: -1873295480
-    Path: event:/Music/Themes/Menu
+      Data1: 339103137
+      Data2: 1093819029
+      Data3: 1288048017
+      Data4: -820357271
+    Path: event:/SFX/amb_weather
   Event: 
   EventPlayTrigger: 0
   EventStopTrigger: 0
@@ -410,6 +410,13 @@ MonoBehaviour:
       Data3: 0
       Data4: 0
     Path: 
+  playerAttackRanged:
+    Guid:
+      Data1: -883968173
+      Data2: 1214887202
+      Data3: -1200054115
+      Data4: -1720930764
+    Path: event:/Music/Stingers/Stinger_Progression
   wallDestroy:
     Guid:
       Data1: 0
