@@ -377,11 +377,11 @@ MonoBehaviour:
     snapShotPause: {fileID: 7484880938483047845}
   playerFootsteps:
     Guid:
-      Data1: 1933731197
-      Data2: 1254057316
-      Data3: -2088298089
-      Data4: 610050937
-    Path: event:/SFX/player_footstep
+      Data1: 1086336157
+      Data2: 1244751845
+      Data3: 1674098365
+      Data4: 1546543452
+    Path: event:/SFX/Player/player_footstep_better
   playerJump:
     Guid:
       Data1: -209867594
@@ -391,11 +391,11 @@ MonoBehaviour:
     Path: event:/SFX/player_jump
   playerLand:
     Guid:
-      Data1: 1933731197
-      Data2: 1254057316
-      Data3: -2088298089
-      Data4: 610050937
-    Path: event:/SFX/player_footstep
+      Data1: 1086336157
+      Data2: 1244751845
+      Data3: 1674098365
+      Data4: 1546543452
+    Path: event:/SFX/Player/player_footstep_better
   playerAttackMelee:
     Guid:
       Data1: 2103397723
