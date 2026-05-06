@@ -405,11 +405,11 @@ MonoBehaviour:
     Path: event:/SFX/player_attack_melee
   playerHurt:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1198761274
+      Data2: 1147747946
+      Data3: -1679567204
+      Data4: -41056856
+    Path: event:/SFX/Player/player_damage_taken
   playerAttackRanged:
     Guid:
       Data1: -1834115111
