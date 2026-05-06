@@ -377,25 +377,25 @@ MonoBehaviour:
     snapShotPause: {fileID: 7484880938483047845}
   playerFootsteps:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1933731197
+      Data2: 1254057316
+      Data3: -2088298089
+      Data4: 610050937
+    Path: event:/SFX/player_footstep
   playerJump:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -209867594
+      Data2: 1317748478
+      Data3: -203309128
+      Data4: -1741579761
+    Path: event:/SFX/player_jump
   playerLand:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1933731197
+      Data2: 1254057316
+      Data3: -2088298089
+      Data4: 610050937
+    Path: event:/SFX/player_footstep
   playerAttackMelee:
     Guid:
       Data1: 2103397723
@@ -412,11 +412,11 @@ MonoBehaviour:
     Path: 
   playerAttackRanged:
     Guid:
-      Data1: -883968173
-      Data2: 1214887202
-      Data3: -1200054115
-      Data4: -1720930764
-    Path: event:/Music/Stingers/Stinger_Progression
+      Data1: -1834115111
+      Data2: 1341012672
+      Data3: 1127414956
+      Data4: 68070507
+    Path: event:/SFX/playerAttackRanged
   wallDestroy:
     Guid:
       Data1: 0
