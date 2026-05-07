@@ -391,11 +391,11 @@ MonoBehaviour:
     Path: event:/SFX/player_jump
   playerLand:
     Guid:
-      Data1: 1086336157
-      Data2: 1244751845
-      Data3: 1674098365
-      Data4: 1546543452
-    Path: event:/SFX/Player/player_footstep_better
+      Data1: -1262362662
+      Data2: 1199638810
+      Data3: 280653191
+      Data4: -1000860957
+    Path: event:/SFX/Player/player_land
   playerAttackMelee:
     Guid:
       Data1: 2103397723
