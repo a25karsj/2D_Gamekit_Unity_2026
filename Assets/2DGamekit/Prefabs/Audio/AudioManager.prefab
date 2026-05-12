@@ -419,11 +419,11 @@ MonoBehaviour:
     Path: event:/SFX/playerAttackRanged
   wallDestroy:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1268579746
+      Data2: 1242296322
+      Data3: 336944056
+      Data4: -1378574394
+    Path: event:/SFX/Impact Sounds/Rocks_Crumbling
   pickupHealth:
     Guid:
       Data1: 0
@@ -447,11 +447,11 @@ MonoBehaviour:
     Path: 
   pickupKey:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1401084710
+      Data2: 1154839137
+      Data3: -2073162082
+      Data4: 887583671
+    Path: event:/SFX/ping_sound_cutscene
   pressurePad:
     Guid:
       Data1: 0
