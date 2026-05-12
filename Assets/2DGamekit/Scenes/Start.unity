@@ -29069,27 +29069,27 @@ PrefabInstance:
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: playerAttackMelee.Path
-      value: event:/SFX/Explosion
+      value: event:/SFX/player/player_attack_melee
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: playerAttackMelee.Guid.Data1
-      value: 1060241181
+      value: 2103397723
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: playerAttackMelee.Guid.Data2
-      value: 1282525441
+      value: 1197407826
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: playerAttackMelee.Guid.Data3
-      value: -715067457
+      value: -1476083837
       objectReference: {fileID: 0}
     - target: {fileID: 4318290237554146967, guid: 8b7499782bc734d9eb2dde86fcc6b7e9,
         type: 3}
       propertyPath: playerAttackMelee.Guid.Data4
-      value: -1127256034
+      value: 1156694720
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
