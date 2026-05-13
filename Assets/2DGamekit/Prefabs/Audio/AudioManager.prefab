@@ -362,11 +362,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 339103137
-      Data2: 1093819029
-      Data3: 1288048017
-      Data4: -820357271
-    Path: event:/SFX/amb_weather
+      Data1: 1990550842
+      Data2: 1295927939
+      Data3: 1156110227
+      Data4: 724647282
+    Path: event:/SFX/Ambiance/amb_manager
   Event: 
   EventPlayTrigger: 0
   EventStopTrigger: 0
