@@ -525,11 +525,11 @@ MonoBehaviour:
     Path: 
   acidSplash:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -253793348
+      Data2: 1195954040
+      Data3: -1432834633
+      Data4: 1873648809
+    Path: event:/SFX/Impact Sounds/Acid_Pool_Splash
   boxPush:
     Guid:
       Data1: 0
