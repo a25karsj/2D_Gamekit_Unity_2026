@@ -462,11 +462,11 @@ MonoBehaviour:
     Path: event:/SFX/Player/player_land
   playerAttackMelee:
     Guid:
-      Data1: 1060241181
-      Data2: 1282525441
-      Data3: -715067457
-      Data4: -1127256034
-    Path: event:/SFX/Impact Sounds/Explosion
+      Data1: 2103397723
+      Data2: 1197407826
+      Data3: -1476083837
+      Data4: 1156694720
+    Path: event:/SFX/player/player_attack_melee
   playerHurt:
     Guid:
       Data1: -1198761274
