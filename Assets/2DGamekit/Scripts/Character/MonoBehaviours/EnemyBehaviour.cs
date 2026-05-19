@@ -399,6 +399,10 @@ namespace Gamekit2D
             m_FireTimer = 1.0f;
         }
 
+        public void ReadyShoot()
+        {
+            audioManager.PlayEnemyRanged(gameObject);  
+        }
         public void Shooting()
         {
             Vector2 shootPosition = shootingOrigin.transform.localPosition;
