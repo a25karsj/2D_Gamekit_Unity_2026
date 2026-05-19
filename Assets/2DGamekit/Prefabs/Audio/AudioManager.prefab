@@ -560,25 +560,25 @@ MonoBehaviour:
     Path: 
   enemyRanged:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1703322584
+      Data2: 1104123856
+      Data3: 1921262012
+      Data4: 2038158915
+    Path: event:/SFX/Enemy/Enemy_Bite
   enemyMelee:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1703322584
+      Data2: 1104123856
+      Data3: 1921262012
+      Data4: 2038158915
+    Path: event:/SFX/Enemy/Enemy_Bite
   enemyDeath:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -648963163
+      Data2: 1078260920
+      Data3: -559384402
+      Data4: 2086591357
+    Path: event:/SFX/Enemy/Enemy_Death
   stingerGameOver:
     Guid:
       Data1: 715162006
