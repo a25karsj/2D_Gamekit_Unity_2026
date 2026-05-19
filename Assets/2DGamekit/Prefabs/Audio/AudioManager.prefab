@@ -490,25 +490,25 @@ MonoBehaviour:
     Path: event:/SFX/Impact Sounds/Rocks_Crumbling
   pickupHealth:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 574766318
+      Data2: 1083713137
+      Data3: 1285134008
+      Data4: 328280397
+    Path: event:/SFX/Feedback Sounds/Health_Pickup
   doorSwitch:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 292334795
+      Data2: 1303826568
+      Data3: -1634638440
+      Data4: 545551780
+    Path: event:/SFX/Feedback Sounds/Door_Switch
   doorOpen:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 970442753
+      Data2: 1332034348
+      Data3: 1337388694
+      Data4: -1013515590
+    Path: event:/SFX/Feedback Sounds/Door_Open
   pickupKey:
     Guid:
       Data1: 1401084710
@@ -532,11 +532,11 @@ MonoBehaviour:
     Path: event:/SFX/Impact Sounds/Acid_Pool_Splash
   boxPush:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -67524862
+      Data2: 1111619862
+      Data3: 595608227
+      Data4: 2110094326
+    Path: event:/SFX/Feedback Sounds/Push_Box
   menuClick:
     Guid:
       Data1: 0
