@@ -539,11 +539,11 @@ MonoBehaviour:
     Path: event:/SFX/Feedback Sounds/Push_Box
   menuClick:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 456010388
+      Data2: 1259809604
+      Data3: 1550598026
+      Data4: -1472621082
+    Path: event:/UI/UI_Click
   menuStartGame:
     Guid:
       Data1: -1323998943
