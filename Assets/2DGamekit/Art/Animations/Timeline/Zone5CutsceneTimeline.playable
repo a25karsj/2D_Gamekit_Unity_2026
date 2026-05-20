@@ -1,5 +1,99 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5753938406485249881
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 133253f56854570409c222a87786b263, type: 3}
+  m_Name: FMOD Event Track (4)
+  m_EditorClassIdentifier: FMODUnity::FMODUnity.FMODEventTrack
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename: 
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000}
+  m_Children: []
+  m_Clips:
+  - m_Version: 1
+    m_Start: 14.466666666666667
+    m_ClipIn: 0
+    m_Asset: {fileID: -2490588826187121152}
+    m_Duration: 1.8166666666666718
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: -5753938406485249881}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 0
+    m_BlendOutDuration: 0
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Boss_Cutscene_Alert
+  m_Markers:
+    m_Objects: []
+  template:
+    volume: 1
 --- !u!114 &-4265686587391140796
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -40,15 +134,15 @@ MonoBehaviour:
       Slot13: 0
       Slot14: 0
       Slot15: 0
-  EventLength: 22.206
+  EventLength: 20
   eventName: 
   EventReference:
     Guid:
-      Data1: 1244433261
-      Data2: 1269447852
-      Data3: -1016812409
-      Data4: 555882268
-    Path: event:/SFX/Boss/Boss_walk
+      Data1: -1915628395
+      Data2: 1126533681
+      Data3: 1379720833
+      Data4: 1134970380
+    Path: event:/SFX/Boss/Boss_walk_cutscene
   StopType: 0
   Parameters: []
 --- !u!114 &-3883662182069598218
@@ -161,6 +255,57 @@ MonoBehaviour:
     m_Objects: []
   template:
     volume: 1
+--- !u!114 &-2490588826187121152
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 987a467495df9d942b56b1b51381d095, type: 3}
+  m_Name: FMODEventPlayable
+  m_EditorClassIdentifier: FMODUnity::FMODUnity.FMODEventPlayable
+  Template:
+    EventReference:
+      Guid:
+        Data1: 0
+        Data2: 0
+        Data3: 0
+        Data4: 0
+      Path: 
+    StopType: 0
+    Parameters: []
+    ParameterLinks: []
+    ParameterAutomation:
+      Slot00: 0
+      Slot01: 0
+      Slot02: 0
+      Slot03: 0
+      Slot04: 0
+      Slot05: 0
+      Slot06: 0
+      Slot07: 0
+      Slot08: 0
+      Slot09: 0
+      Slot10: 0
+      Slot11: 0
+      Slot12: 0
+      Slot13: 0
+      Slot14: 0
+      Slot15: 0
+  EventLength: 3.979
+  eventName: 
+  EventReference:
+    Guid:
+      Data1: 131318414
+      Data2: 1204687864
+      Data3: -1643508839
+      Data4: -1731193653
+    Path: event:/SFX/Boss/Boss_Cutscene_Alert
+  StopType: 0
+  Parameters: []
 --- !u!114 &-1733118991663133051
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -244,6 +389,7 @@ MonoBehaviour:
   - {fileID: 8353334449135413024}
   - {fileID: 4045072496324662096}
   - {fileID: -3056211276871723455}
+  - {fileID: -5753938406485249881}
   m_FixedDuration: 0
   m_EditorSettings:
     m_Framerate: 60
@@ -3400,15 +3546,15 @@ MonoBehaviour:
       Slot13: 0
       Slot14: 0
       Slot15: 0
-  EventLength: 4.2
+  EventLength: 8
   eventName: 
   EventReference:
     Guid:
-      Data1: 970442753
-      Data2: 1332034348
-      Data3: 1337388694
-      Data4: -1013515590
-    Path: event:/SFX/Feedback Sounds/Door_Open
+      Data1: 1379711151
+      Data2: 1218874472
+      Data3: -1047113849
+      Data4: 666298765
+    Path: event:/SFX/Boss/Door_Open_Boss
   StopType: 0
   Parameters: []
 --- !u!114 &4045072496324662096
@@ -3594,7 +3740,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Door_Open
+    m_DisplayName: Door_Open_Boss
   m_Markers:
     m_Objects: []
   template:
@@ -3711,7 +3857,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Boss_walk
+    m_DisplayName: Boss_walk_cutscene
   m_Markers:
     m_Objects: []
   template:
