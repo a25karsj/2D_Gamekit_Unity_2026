@@ -546,11 +546,11 @@ MonoBehaviour:
     Path: 
   menuStartGame:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -1323998943
+      Data2: 1196553449
+      Data3: -867473507
+      Data4: -2060089337
+    Path: event:/UI/Game_Start
   enemyFootstep:
     Guid:
       Data1: 0
