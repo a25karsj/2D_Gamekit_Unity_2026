@@ -65514,6 +65514,94 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 2.8528214, y: 0.5972147}
   m_EdgeRadius: 0
+--- !u!1001 &1736739847
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1665636103079243138, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_Size.x
+      value: 47.17151
+      objectReference: {fileID: 0}
+    - target: {fileID: 1665636103079243138, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 11.300758
+      objectReference: {fileID: 0}
+    - target: {fileID: 1665636103079243138, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_Offset.x
+      value: -5.345834
+      objectReference: {fileID: 0}
+    - target: {fileID: 1665636103079243138, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -1.1509066
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926686646904908181, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.940477
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926686646904908181, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.6507938
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926686646904908181, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926686646904908181, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926686646904908181, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926686646904908181, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926686646904908181, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926686646904908181, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926686646904908181, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926686646904908181, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6221913564573033609, guid: bd899049ac1cf2a4086f340696ad4d07,
+        type: 3}
+      propertyPath: m_Name
+      value: ominous_ambiance Emitter
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bd899049ac1cf2a4086f340696ad4d07, type: 3}
 --- !u!1 &1736815646
 GameObject:
   m_ObjectHideFlags: 0
@@ -69881,3 +69969,4 @@ SceneRoots:
   - {fileID: 493960761}
   - {fileID: 266430816}
   - {fileID: 975682041}
+  - {fileID: 1736739847}
