@@ -304,7 +304,7 @@ MonoBehaviour:
       Data3: -1643508839
       Data4: -1731193653
     Path: event:/SFX/Boss/Boss_Cutscene_Alert
-  StopType: 0
+  StopType: 1
   Parameters: []
 --- !u!114 &-1733118991663133051
 MonoBehaviour:
