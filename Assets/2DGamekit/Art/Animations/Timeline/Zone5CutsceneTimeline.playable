@@ -1896,11 +1896,11 @@ MonoBehaviour:
   eventName: 
   EventReference:
     Guid:
-      Data1: 1401084710
-      Data2: 1154839137
-      Data3: -2073162082
-      Data4: 887583671
-    Path: event:/SFX/Feedback Sounds/Ping_sound_cutscene
+      Data1: -923535915
+      Data2: 1216741385
+      Data3: 1655653534
+      Data4: -1053024258
+    Path: event:/SFX/Feedback Sounds/Ping_sound_cutscene 2
   StopType: 0
   Parameters: []
 --- !u!114 &114032021090277154
@@ -3669,7 +3669,7 @@ MonoBehaviour:
     m_PreExtrapolationMode: 0
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
-    m_DisplayName: Ping_sound_cutscene
+    m_DisplayName: Ping_sound_cutscene 2
   m_Markers:
     m_Objects: []
   template:
